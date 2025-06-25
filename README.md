@@ -23,7 +23,7 @@ Autonomous and organized, I manage data projects end-to-end, ensuring impeccable
 
 | Project Name                             | Description                                    | Technologies                         | GitHub Link                        |
 |----------------------------------------|------------------------------------------------|------------------------------------|----------------------------------|
-| **Books Scraping**                | Web scraping tool to extract book data (titles, authors, ratings) from online stores, with data cleaning and save it to SQLite db | Python, BeautifulSoup, Requests, Pandas | [Repo Link](#)                   |
+| **Books Scraping**                | Web scraping tool to extract book data (titles, authors, ratings) from online stores, with data cleaning and save it to SQLite db | Python, aiohttp, SQLite, Pandas | [Repo Link](#)                   |
 
 
 ---
